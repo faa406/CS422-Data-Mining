@@ -42,7 +42,7 @@ This repository includes practical projects developed during the course, demonst
 
 ### Project 1: [Project Title or Description]
 
-### Project 2: [Project Title or Description]
+
 
 
 
