@@ -188,7 +188,7 @@ Exported the final model to ONNX to enable cross-platform, production-ready depl
 ## Author & Acknowledgments
 - **Author:** Fatima Vahora  
 - **Course:** CS422 — Data Mining  
-- **Date:** August 2025  
+- **Date:** July 2025  
 - **Final Grade:** 100 / 100 Points
 
 
