@@ -34,17 +34,20 @@ Completing this course equips students with:
 
 ## Projects
 
-This repository includes practical projects developed during the course, demonstrating:
+This repository includes practical projects developed during the course, demonstrating the application of data mining algorithms to real datasets and the implementation of scalable data analysis workflows.
 
-- Application of data mining algorithms to real datasets.
-- Implementation of scalable and efficient data analysis workflows.
-- Exploration of diverse data mining challenges and solutions.
+### Project 1: Blind Data Classification
 
-### Project 1: [Project Title or Description]
-
-
-
-
+- **Objective:** Build an accurate classification model on a dataset with no prior feature metadata (“blind” dataset).  
+- **Challenges:** Severe class imbalance, high-dimensional features, and redundant information.  
+- **Approach:**  
+  - Data quality checks and statistical analysis  
+  - Handling class imbalance with NearMiss undersampling and class weighting  
+  - Dimensionality reduction using PCA  
+  - Comparison of multiple classifiers: Logistic Regression, Decision Tree, Random Forest, XGBoost  
+  - Model optimization via cross-validation and hyperparameter tuning  
+  - Exporting the best model in ONNX format for deployment  
+- **Outcome:** Developed a robust, interpretable classification pipeline capable of handling blind datasets with challenging conditions.  
 
 ---
 
